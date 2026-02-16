@@ -1,0 +1,16 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+*.sln
+*.user
+*.suo
+
+# Test files
+test_input.txt
